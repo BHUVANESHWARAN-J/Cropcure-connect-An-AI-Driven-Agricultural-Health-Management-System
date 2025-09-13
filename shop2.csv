@@ -1,0 +1,25 @@
+product_name,disease,dosage,duration,price,rating
+SpotAway,cauliflower_Bacterial_spot_rot,11ml/L,5 days,115,4.3
+BlackRotClean,cauliflower_Black_Rot,12ml/L,6 days,105,4.1
+DownySafe,cauliflower_Downy_Mildew,14ml/L,5 days,125,4.5
+CauliVita,cauliflower_No_disease,0ml/L,0 days,0,5.0
+ChillyGuard,chilly_leaf_curl,11ml/L,4 days,115,4.0
+SpotClear,chilly_leaf_spot,13ml/L,5 days,120,4.2
+WhiteflyAway,chilly_whitefly,14ml/L,6 days,130,4.3
+YellowCare,chilly_yellowish,12ml/L,5 days,125,4.1
+ChillyStrong,chilly_healthy,0ml/L,0 days,0,5.0
+CornBlightStop,corn_Blight,13ml/L,5 days,115,4.0
+RustShield,corn_Common_Rust,15ml/L,6 days,135,4.2
+GrayFix,corn_Gray_Leaf_Spot,12ml/L,4 days,120,4.0
+CornHealthMax,corn_Healthy,0ml/L,0 days,0,5.0
+BellBlightStop,Pepper__bell___Bacterial_spot,11ml/L,6 days,105,4.1
+PepperHealthSafe,Pepper__bell___healthy,0ml/L,0 days,0,5.0
+EarlyPotatoFix,Potato__Early_blight,11ml/L,5 days,110,4.3
+PotatoWellness,Potato__healthy,0ml/L,0 days,0,5.0
+LateBlightAway,Potato__Late_blight,16ml/L,7 days,125,4.2
+TargetDown,Tomato__Target_Spot,13ml/L,5 days,115,4.1
+MosaicStop,Tomato__Tomato_mosaic_virus,19ml/L,6 days,155,4.5
+YellowStop,Tomato__Tomato_YellowLeaf__Curl_Virus,17ml/L,5 days,140,4.4
+SeptoriaAway,Tomato__Septoria_leaf_spot,15ml/L,5 days,130,4.2
+MiteEnd,Tomato__Spider_mites_Two_spotted_spider_mite,17ml/L,6 days,135,4.0
+HealthyTomoPlus,Tomato__healthy,0ml/L,0 days,0,5.0

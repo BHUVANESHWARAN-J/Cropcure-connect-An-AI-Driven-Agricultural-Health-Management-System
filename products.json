@@ -1,0 +1,635 @@
+{
+  "cauliflower_Bacterial_spot_rot": [
+    {
+      "product_name": "CauliCure1",
+      "dosage": "12ml/L",
+      "duration": "5 days",
+      "price": 120,
+      "rating": 4.5,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "SpotAway",
+      "dosage": "11ml/L",
+      "duration": "5 days",
+      "price": 115,
+      "rating": 4.3,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "BactroClean",
+      "dosage": "13ml/L",
+      "duration": "5 days",
+      "price": 125,
+      "rating": 4.4,
+      "shop": "shop3"
+    }
+  ],
+  "cauliflower_Black_Rot": [
+    {
+      "product_name": "CauliShield",
+      "dosage": "10ml/L",
+      "duration": "4 days",
+      "price": 110,
+      "rating": 4.3,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "BlackRotClean",
+      "dosage": "12ml/L",
+      "duration": "6 days",
+      "price": 105,
+      "rating": 4.1,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "RotCure",
+      "dosage": "10ml/L",
+      "duration": "5 days",
+      "price": 100,
+      "rating": 4.0,
+      "shop": "shop3"
+    }
+  ],
+  "cauliflower_Downy_Mildew": [
+    {
+      "product_name": "DownyAway",
+      "dosage": "15ml/L",
+      "duration": "6 days",
+      "price": 130,
+      "rating": 4.6,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "DownySafe",
+      "dosage": "14ml/L",
+      "duration": "5 days",
+      "price": 125,
+      "rating": 4.5,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "MildewAway",
+      "dosage": "13ml/L",
+      "duration": "5 days",
+      "price": 120,
+      "rating": 4.3,
+      "shop": "shop3"
+    }
+  ],
+  "cauliflower_No_disease": [
+    {
+      "product_name": "CauliBoost",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "CauliVita",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "CauliHealthPro",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop3"
+    }
+  ],
+  "chilly_leaf_curl": [
+    {
+      "product_name": "ChillyCure",
+      "dosage": "10ml/L",
+      "duration": "5 days",
+      "price": 125,
+      "rating": 4.2,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "ChillyGuard",
+      "dosage": "11ml/L",
+      "duration": "4 days",
+      "price": 115,
+      "rating": 4.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "CurlFix",
+      "dosage": "10ml/L",
+      "duration": "4 days",
+      "price": 110,
+      "rating": 4.1,
+      "shop": "shop3"
+    }
+  ],
+  "chilly_leaf_spot": [
+    {
+      "product_name": "LeafClear",
+      "dosage": "12ml/L",
+      "duration": "4 days",
+      "price": 115,
+      "rating": 4.1,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "SpotClear",
+      "dosage": "13ml/L",
+      "duration": "5 days",
+      "price": 120,
+      "rating": 4.2,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "LeafSpotShield",
+      "dosage": "12ml/L",
+      "duration": "4 days",
+      "price": 118,
+      "rating": 4.2,
+      "shop": "shop3"
+    }
+  ],
+  "chilly_whitefly": [
+    {
+      "product_name": "WhiteflyGo",
+      "dosage": "15ml/L",
+      "duration": "7 days",
+      "price": 135,
+      "rating": 4.4,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "WhiteflyAway",
+      "dosage": "14ml/L",
+      "duration": "6 days",
+      "price": 130,
+      "rating": 4.3,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "WhiteflyBlocker",
+      "dosage": "13ml/L",
+      "duration": "6 days",
+      "price": 128,
+      "rating": 4.2,
+      "shop": "shop3"
+    },
+    {
+      "product_name": "Whitefly Cure Max",
+      "dosage": "5ml per liter",
+      "duration": "7 days",
+      "price": 110,
+      "rating": 4.3,
+      "shop": "shop1"
+    }
+  ],
+  "chilly_yellowish": [
+    {
+      "product_name": "YellowFix",
+      "dosage": "10ml/L",
+      "duration": "5 days",
+      "price": 120,
+      "rating": 4.3,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "YellowCare",
+      "dosage": "12ml/L",
+      "duration": "5 days",
+      "price": 125,
+      "rating": 4.1,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "YellowGuard",
+      "dosage": "11ml/L",
+      "duration": "5 days",
+      "price": 115,
+      "rating": 4.1,
+      "shop": "shop3"
+    }
+  ],
+  "chilly_healthy": [
+    {
+      "product_name": "ChillySafe",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "ChillyStrong",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "ChillyStrongSafe",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop3"
+    }
+  ],
+  "corn_Blight": [
+    {
+      "product_name": "CornBlightX",
+      "dosage": "12ml/L",
+      "duration": "6 days",
+      "price": 110,
+      "rating": 4.0,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "CornBlightStop",
+      "dosage": "13ml/L",
+      "duration": "5 days",
+      "price": 115,
+      "rating": 4.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "CornBlightRemedy",
+      "dosage": "14ml/L",
+      "duration": "6 days",
+      "price": 112,
+      "rating": 4.0,
+      "shop": "shop3"
+    }
+  ],
+  "corn_Common_Rust": [
+    {
+      "product_name": "RustStop",
+      "dosage": "14ml/L",
+      "duration": "5 days",
+      "price": 140,
+      "rating": 4.2,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "RustShield",
+      "dosage": "15ml/L",
+      "duration": "6 days",
+      "price": 135,
+      "rating": 4.2,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "RustRemover",
+      "dosage": "13ml/L",
+      "duration": "5 days",
+      "price": 122,
+      "rating": 4.1,
+      "shop": "shop3"
+    }
+  ],
+  "corn_Gray_Leaf_Spot": [
+    {
+      "product_name": "GrayShield",
+      "dosage": "11ml/L",
+      "duration": "4 days",
+      "price": 125,
+      "rating": 4.1,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "GrayFix",
+      "dosage": "12ml/L",
+      "duration": "4 days",
+      "price": 120,
+      "rating": 4.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "GrayLeafShield",
+      "dosage": "13ml/L",
+      "duration": "5 days",
+      "price": 126,
+      "rating": 4.0,
+      "shop": "shop3"
+    }
+  ],
+  "corn_Healthy": [
+    {
+      "product_name": "CornHealthPlus",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "CornHealthMax",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "CornHealthyGrowth",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop3"
+    }
+  ],
+  "Pepper__bell___Bacterial_spot": [
+    {
+      "product_name": "BellSpotKill",
+      "dosage": "10ml/L",
+      "duration": "5 days",
+      "price": 100,
+      "rating": 4.0,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "BellBlightStop",
+      "dosage": "11ml/L",
+      "duration": "6 days",
+      "price": 105,
+      "rating": 4.1,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "BellCareX",
+      "dosage": "12ml/L",
+      "duration": "6 days",
+      "price": 102,
+      "rating": 4.0,
+      "shop": "shop3"
+    }
+  ],
+  "Pepper__bell___healthy": [
+    {
+      "product_name": "PepperPlus",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "PepperHealthSafe",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "PepperHealthGuard",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop3"
+    }
+  ],
+  "Potato__Early_blight": [
+    {
+      "product_name": "PotatoEarlyX",
+      "dosage": "10ml/L",
+      "duration": "5 days",
+      "price": 105,
+      "rating": 4.2,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "EarlyPotatoFix",
+      "dosage": "11ml/L",
+      "duration": "5 days",
+      "price": 110,
+      "rating": 4.3,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "EarlyBlightBlock",
+      "dosage": "10ml/L",
+      "duration": "5 days",
+      "price": 108,
+      "rating": 4.2,
+      "shop": "shop3"
+    }
+  ],
+  "Potato__healthy": [
+    {
+      "product_name": "PotatoHealthFix",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "PotatoWellness",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "PotatoGrowSafe",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop3"
+    }
+  ],
+  "Potato__Late_blight": [
+    {
+      "product_name": "LateBlightGone",
+      "dosage": "15ml/L",
+      "duration": "6 days",
+      "price": 130,
+      "rating": 4.3,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "LateBlightAway",
+      "dosage": "16ml/L",
+      "duration": "7 days",
+      "price": 125,
+      "rating": 4.2,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "LateGone",
+      "dosage": "14ml/L",
+      "duration": "5 days",
+      "price": 118,
+      "rating": 4.3,
+      "shop": "shop3"
+    }
+  ],
+  "Tomato__Target_Spot": [
+    {
+      "product_name": "TomatoTargetX",
+      "dosage": "12ml/L",
+      "duration": "4 days",
+      "price": 110,
+      "rating": 4.1,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "TargetDown",
+      "dosage": "13ml/L",
+      "duration": "5 days",
+      "price": 115,
+      "rating": 4.1,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "TargetClear",
+      "dosage": "11ml/L",
+      "duration": "5 days",
+      "price": 109,
+      "rating": 4.1,
+      "shop": "shop3"
+    }
+  ],
+  "Tomato__Tomato_mosaic_virus": [
+    {
+      "product_name": "MosaicBlock",
+      "dosage": "20ml/L",
+      "duration": "6 days",
+      "price": 150,
+      "rating": 4.4,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "MosaicStop",
+      "dosage": "19ml/L",
+      "duration": "6 days",
+      "price": 155,
+      "rating": 4.5,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "MosaicDefender",
+      "dosage": "20ml/L",
+      "duration": "6 days",
+      "price": 148,
+      "rating": 4.4,
+      "shop": "shop3"
+    }
+  ],
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": [
+    {
+      "product_name": "YellowCurlCure",
+      "dosage": "18ml/L",
+      "duration": "5 days",
+      "price": 145,
+      "rating": 4.5,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "YellowStop",
+      "dosage": "17ml/L",
+      "duration": "5 days",
+      "price": 140,
+      "rating": 4.4,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "CurlVirusStop",
+      "dosage": "18ml/L",
+      "duration": "5 days",
+      "price": 142,
+      "rating": 4.5,
+      "shop": "shop3"
+    }
+  ],
+  "Tomato__Septoria_leaf_spot": [
+    {
+      "product_name": "SeptoStop",
+      "dosage": "14ml/L",
+      "duration": "5 days",
+      "price": 125,
+      "rating": 4.3,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "SeptoriaAway",
+      "dosage": "15ml/L",
+      "duration": "5 days",
+      "price": 130,
+      "rating": 4.2,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "SeptoriaShield",
+      "dosage": "14ml/L",
+      "duration": "5 days",
+      "price": 123,
+      "rating": 4.3,
+      "shop": "shop3"
+    }
+  ],
+  "Tomato__Spider_mites_Two_spotted_spider_mite": [
+    {
+      "product_name": "SpiderEnd",
+      "dosage": "16ml/L",
+      "duration": "6 days",
+      "price": 140,
+      "rating": 4.1,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "MiteEnd",
+      "dosage": "17ml/L",
+      "duration": "6 days",
+      "price": 135,
+      "rating": 4.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "MiteAwayX",
+      "dosage": "16ml/L",
+      "duration": "6 days",
+      "price": 138,
+      "rating": 4.1,
+      "shop": "shop3"
+    }
+  ],
+  "Tomato__healthy": [
+    {
+      "product_name": "TomoHealthGuard",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop1"
+    },
+    {
+      "product_name": "HealthyTomoPlus",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop2"
+    },
+    {
+      "product_name": "TomoGreen",
+      "dosage": "0ml/L",
+      "duration": "0 days",
+      "price": 0,
+      "rating": 5.0,
+      "shop": "shop3"
+    }
+  ],
+  "": []
+}

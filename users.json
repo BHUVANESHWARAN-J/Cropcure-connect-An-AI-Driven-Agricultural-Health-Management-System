@@ -1,0 +1,26 @@
+{
+  "bhuvan": {
+    "password": "12",
+    "role": "farmer"
+  },
+  "shop3": {
+    "password": "12",
+    "role": "industry"
+  },
+  "shop2": {
+    "password": "12",
+    "role": "industry"
+  },
+  "shop1": {
+    "password": "12",
+    "role": "industry"
+  },
+  "ece": {
+    "password": "ece",
+    "role": "farmer"
+  },
+  "deepan": {
+    "password": "m",
+    "role": "farmer"
+  }
+}
