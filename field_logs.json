@@ -1,0 +1,42 @@
+{
+  "ece": [
+    {
+      "date": "2025-08-20",
+      "crop": "Tomato",
+      "activity": "Planting",
+      "area": 0.1,
+      "cost": 0,
+      "notes": "",
+      "timestamp": "2025-08-20 13:55:17.665409"
+    },
+    {
+      "date": "2025-08-20",
+      "crop": "Tomato",
+      "activity": "Spraying",
+      "area": 0.1,
+      "cost": 700,
+      "notes": "",
+      "timestamp": "2025-08-20 13:55:39.505033"
+    }
+  ],
+  "deepan": [
+    {
+      "date": "2025-09-11",
+      "crop": "Tomato",
+      "activity": "Planting",
+      "area": 1.0,
+      "cost": 300,
+      "notes": "for cultication and planting ",
+      "timestamp": "2025-09-11 13:42:24.281343"
+    },
+    {
+      "date": "2025-09-12",
+      "crop": "Tomato",
+      "activity": "Spraying",
+      "area": 1.0,
+      "cost": 200,
+      "notes": "medicine and spray amount ",
+      "timestamp": "2025-09-11 13:43:00.075110"
+    }
+  ]
+}
